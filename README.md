@@ -1,5 +1,3 @@
-<!-- Profile Banner -->
-<img src="https://i.ibb.co/0hV2GZs/banner.png" alt="DHANE Banner" width="100%"/>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#FF4B2B;">Dhanesha Manorathne</span> (aka DHANE)</h1>
 <h3 align="center">Final-year Software Engineering Undergraduate | Full-Stack Developer | AI & Machine Learning Enthusiast</h3>
