@@ -51,7 +51,8 @@
 ### 🔥 Streaks & Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhane1210&theme=radical&hide_border=true" height="180px"/>
+  <img src="[https://streak-stats.demolab.com?user=dhane1210&theme=radical&hide_border=true](https://streak-stats.demolab.com/?user=dhane1210&theme=radical&hide_border=true&cache_seconds=1800
+)" height="180px"/>
 </p>
 
 <p align="center">
